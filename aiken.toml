@@ -1,0 +1,14 @@
+name = "deltadefi-protocol/aiken-virtual-dex"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'deltadefi-protocol/aiken-virtual-dex'"
+
+[repository]
+user = "deltadefi-protocol"
+project = "aiken-virtual-dex"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "1.7.0"
+source = "github"
